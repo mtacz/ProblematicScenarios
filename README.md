@@ -1,3 +1,4 @@
-Practicing iframe with PO and Fluent Interface.
-Implemented test verifying that three messages are called in the correct order when the button is clicked, accounting for random message generation and preventing StaleElementReferenceException.
-Scope: Java21, TestNG, Maven, Selenium 4.
+Project Summary:
+Project Scope: Java 21, TestNG, Maven, Selenium 4
+1st Project: Practiced working with iframes using the Page Object pattern and the Fluent Interface design pattern.
+2nd Project: Implemented an automated test verifying that three messages are triggered in the correct order after clicking a button. The test accounts for random message generation and prevents StaleElementReferenceException.
